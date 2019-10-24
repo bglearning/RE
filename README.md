@@ -8,3 +8,6 @@ REpository for things to:
 - REthink
 - REview
 
+## The things
+
+[000 - How To Do What You Love](things/000-How-to-do-what-you-love.md)
