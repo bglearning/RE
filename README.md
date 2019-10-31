@@ -11,3 +11,5 @@ REpository for things to:
 ## The things
 
 [000 - How To Do What You Love](things/000-How-to-do-what-you-love.md)
+
+[001 - The Multidisciplinary Approach To Thinking](things/001-The-Multidisciplinary-Approach-To-Thinking.md)
