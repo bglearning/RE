@@ -15,3 +15,5 @@ REpository for things to:
 [001 - The Multidisciplinary Approach To Thinking](things/001-The-Multidisciplinary-Approach-To-Thinking.md)
 
 [002 - The Art of Being Yourself](things/002-The-art-of-being-yourself.md)
+
+[003 - You and Your Research](things/003-You-and-Your-Research.md)
