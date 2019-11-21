@@ -17,3 +17,5 @@ REpository for things to:
 [002 - The Art of Being Yourself](things/002-The-art-of-being-yourself.md)
 
 [003 - You and Your Research](things/003-You-and-Your-Research.md)
+
+[004 - Lean into the Pain](things/004-Lean-into-the-pain.md)
